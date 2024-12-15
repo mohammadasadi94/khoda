@@ -1,0 +1,11 @@
+matplotlib
+pandas
+numpy
+seaborn
+sklearn
+train_test_split
+LinearRegression
+KNeighborsRegressor
+DecisionTreeRegressor
+r2_score
+StandardScaler
